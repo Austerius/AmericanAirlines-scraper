@@ -1,0 +1,3546 @@
+{
+"state": "Alabama",
+"city": "Birmingham",
+"airport": "Birmingham",
+"code": "BHM"
+}{
+"state": "Alabama",
+"city": "Dothan",
+"airport": "Dothan Arpt",
+"code": "DHN"
+}{
+"state": "Alabama",
+"city": "Florence",
+"airport": "Florence Muscle Shoals Sheffield",
+"code": "MSL"
+}{
+"state": "Alabama",
+"city": "Huntsville",
+"airport": "Huntsville Intl",
+"code": "HSV"
+}{
+"state": "Alabama",
+"city": "Mobile",
+"airport": "Mobile Municipal Arpt",
+"code": "MOB"
+}{
+"state": "Alabama",
+"city": "Montgomery",
+"airport": "Montgomery Dannelly Fld",
+"code": "MGM"
+}{
+"state": "Alaska",
+"city": "Adak Island",
+"airport": "Adak Island NS",
+"code": "ADK"
+}{
+"state": "Alaska",
+"city": "Akhiok",
+"airport": "Akhiok SPB",
+"code": "AKK"
+}{
+"state": "Alaska",
+"city": "Akiachak",
+"airport": "Akiachak Spb",
+"code": "KKI"
+}{
+"state": "Alaska",
+"city": "Akiak",
+"airport": "Akiak",
+"code": "AKI"
+}{
+"state": "Alaska",
+"city": "Akutan",
+"airport": "Akutan",
+"code": "KQA"
+}{
+"state": "Alaska",
+"city": "Alakanuk",
+"airport": "Alakanuk",
+"code": "AUK"
+}{
+"state": "Alaska",
+"city": "Aleknagik",
+"airport": "Aleknagik",
+"code": "WKK"
+}{
+"state": "Alaska",
+"city": "Alitak",
+"airport": "Alitak SPB",
+"code": "ALZ"
+}{
+"state": "Alaska",
+"city": "Allakaket",
+"airport": "Allakaket",
+"code": "AET"
+}{
+"state": "Alaska",
+"city": "Ambler",
+"airport": "Ambler",
+"code": "ABL"
+}{
+"state": "Alaska",
+"city": "Amook",
+"airport": "Amook",
+"code": "AOS"
+}{
+"state": "Alaska",
+"city": "Anaktuvuk",
+"airport": "Anaktuvuk",
+"code": "AKP"
+}{
+"state": "Alaska",
+"city": "Anchorage",
+"airport": "Anchorage International",
+"code": "ANC"
+}{
+"state": "Alaska",
+"city": "Angoon",
+"airport": "Angoon",
+"code": "AGN"
+}{
+"state": "Alaska",
+"city": "Aniak",
+"airport": "Aniak",
+"code": "ANI"
+}{
+"state": "Alaska",
+"city": "Anvik",
+"airport": "Anvik",
+"code": "ANV"
+}{
+"state": "Alaska",
+"city": "Arctic Village",
+"airport": "Arctic Village",
+"code": "ARC"
+}{
+"state": "Alaska",
+"city": "Atka",
+"airport": "Atka",
+"code": "AKB"
+}{
+"state": "Alaska",
+"city": "Atmautluak",
+"airport": "Atmautluak",
+"code": "ATT"
+}{
+"state": "Alaska",
+"city": "Atqasuk",
+"airport": "Atqasuk",
+"code": "ATK"
+}{
+"state": "Alaska",
+"city": "Barrow",
+"airport": "Barrow WRogers M Wiley Post",
+"code": "BRW"
+}{
+"state": "Alaska",
+"city": "Barter Island",
+"airport": "Barter Island",
+"code": "BTI"
+}{
+"state": "Alaska",
+"city": "Beaver",
+"airport": "Beaver",
+"code": "WBQ"
+}{
+"state": "Alaska",
+"city": "Bethel",
+"airport": "Bethel Airport",
+"code": "BET"
+}{
+"state": "Alaska",
+"city": "Bettles",
+"airport": "Bettles",
+"code": "BTT"
+}{
+"state": "Alaska",
+"city": "Birch Creek",
+"airport": "Birch Creek",
+"code": "KBC"
+}{
+"state": "Alaska",
+"city": "Brooks Lodge",
+"airport": "Brooks Lodge",
+"code": "RBH"
+}{
+"state": "Alaska",
+"city": "Buckland",
+"airport": "Buckland",
+"code": "BKC"
+}{
+"state": "Alaska",
+"city": "Cape Lisburne",
+"airport": "Cape Lisburne",
+"code": "LUR"
+}{
+"state": "Alaska",
+"city": "Central",
+"airport": "Central",
+"code": "CEM"
+}{
+"state": "Alaska",
+"city": "Chalkyitsik",
+"airport": "Chalkyitsik",
+"code": "CIK"
+}{
+"state": "Alaska",
+"city": "Chefornak",
+"airport": "Chefornak SPB",
+"code": "CYF"
+}{
+"state": "Alaska",
+"city": "Chevak",
+"airport": "Chevak",
+"code": "VAK"
+}{
+"state": "Alaska",
+"city": "Chicken",
+"airport": "Chicken",
+"code": "CKX"
+}{
+"state": "Alaska",
+"city": "Chignik",
+"airport": "Chignik Fisheries",
+"code": "KCG"
+}{
+"state": "Alaska",
+"city": "Chignik",
+"airport": "Chignik Lagoon",
+"code": "KCL"
+}{
+"state": "Alaska",
+"city": "Chignik",
+"airport": "Chignik",
+"code": "KCQ"
+}{
+"state": "Alaska",
+"city": "Chisana",
+"airport": "Chisana Field",
+"code": "CZN"
+}{
+"state": "Alaska",
+"city": "Chuathbaluk",
+"airport": "Chuathbaluk",
+"code": "CHU"
+}{
+"state": "Alaska",
+"city": "Circle",
+"airport": "Circle City",
+"code": "IRC"
+}{
+"state": "Alaska",
+"city": "Clarks Point",
+"airport": "Clarks Point",
+"code": "CLP"
+}{
+"state": "Alaska",
+"city": "Coffman Cove",
+"airport": "Coffman Cove SPB",
+"code": "KCC"
+}{
+"state": "Alaska",
+"city": "Cold Bay",
+"airport": "Cold Bay",
+"code": "CDB"
+}{
+"state": "Alaska",
+"city": "Cordova",
+"airport": "Cordova Mudhole Smith",
+"code": "CDV"
+}{
+"state": "Alaska",
+"city": "Craig",
+"airport": "Craig SPB",
+"code": "CGA"
+}{
+"state": "Alaska",
+"city": "Crooked Creek",
+"airport": "Crooked Creek",
+"code": "CKD"
+}{
+"state": "Alaska",
+"city": "Deering",
+"airport": "Deering",
+"code": "DRG"
+}{
+"state": "Alaska",
+"city": "Dillingham",
+"airport": "Dillingham Municipal",
+"code": "DLG"
+}{
+"state": "Alaska",
+"city": "Dutch Harbor",
+"airport": "Dutch Harbor Emergency Field",
+"code": "DUT"
+}{
+"state": "Alaska",
+"city": "Eagle",
+"airport": "Eagle",
+"code": "EAA"
+}{
+"state": "Alaska",
+"city": "Edna Bay",
+"airport": "Edna Bay",
+"code": "EDA"
+}{
+"state": "Alaska",
+"city": "Eek",
+"airport": "Eek",
+"code": "EEK"
+}{
+"state": "Alaska",
+"city": "Egegik",
+"airport": "Egegik",
+"code": "EGX"
+}{
+"state": "Alaska",
+"city": "Ekuk",
+"airport": "Ekuk",
+"code": "KKU"
+}{
+"state": "Alaska",
+"city": "Ekwok",
+"airport": "Ekwok",
+"code": "KEK"
+}{
+"state": "Alaska",
+"city": "Eldred Rock",
+"airport": "ERO",
+"code": "ERO"
+}{
+"state": "Alaska",
+"city": "Elfin Cove",
+"airport": "Elfin Cove SPB",
+"code": "ELV"
+}{
+"state": "Alaska",
+"city": "Elim",
+"airport": "Elim",
+"code": "ELI"
+}{
+"state": "Alaska",
+"city": "Emmonak",
+"airport": "Emmonak",
+"code": "EMK"
+}{
+"state": "Alaska",
+"city": "Excursion Inlet",
+"airport": "Excursion Inlet SPB",
+"code": "EXI"
+}{
+"state": "Alaska",
+"city": "Fairbanks",
+"airport": "Fairbanks International",
+"code": "FAI"
+}{
+"state": "Alaska",
+"city": "False Pass",
+"airport": "False Pass",
+"code": "KFP"
+}{
+"state": "Alaska",
+"city": "Fort Yukon",
+"airport": "Fort Yukon",
+"code": "FYU"
+}{
+"state": "Alaska",
+"city": "Galena",
+"airport": "Galena",
+"code": "GAL"
+}{
+"state": "Alaska",
+"city": "Gambell",
+"airport": "Gambell",
+"code": "GAM"
+}{
+"state": "Alaska",
+"city": "Golovin",
+"airport": "Golovin",
+"code": "GLV"
+}{
+"state": "Alaska",
+"city": "Goodnews Bay",
+"airport": "Goodnews Bay",
+"code": "GNU"
+}{
+"state": "Alaska",
+"city": "Grayling",
+"airport": "Grayling",
+"code": "KGX"
+}{
+"state": "Alaska",
+"city": "Gustavus",
+"airport": "Gustavus Arpt",
+"code": "GST"
+}{
+"state": "Alaska",
+"city": "Haines",
+"airport": "Haines Municipal",
+"code": "HNS"
+}{
+"state": "Alaska",
+"city": "Healy Lake",
+"airport": "Healy Lake",
+"code": "HKB"
+}{
+"state": "Alaska",
+"city": "Hollis",
+"airport": "Hollis SPB",
+"code": "HYL"
+}{
+"state": "Alaska",
+"city": "Holy Cross",
+"airport": "Holy Cross",
+"code": "HCR"
+}{
+"state": "Alaska",
+"city": "Homer",
+"airport": "Homer",
+"code": "HOM"
+}{
+"state": "Alaska",
+"city": "Hoonah",
+"airport": "Hoonah",
+"code": "HNH"
+}{
+"state": "Alaska",
+"city": "Hooper Bay",
+"airport": "Hooper Bay",
+"code": "HPB"
+}{
+"state": "Alaska",
+"city": "Hughes",
+"airport": "Hughes Municipal",
+"code": "HUS"
+}{
+"state": "Alaska",
+"city": "Huslia",
+"airport": "Huslia",
+"code": "HSL"
+}{
+"state": "Alaska",
+"city": "Hydaburg",
+"airport": "Hydaburg SPB",
+"code": "HYG"
+}{
+"state": "Alaska",
+"city": "Igiugig",
+"airport": "Igiugig",
+"code": "IGG"
+}{
+"state": "Alaska",
+"city": "Iliamna",
+"airport": "Iliamna",
+"code": "ILI"
+}{
+"state": "Alaska",
+"city": "Juneau",
+"airport": "Juneau International",
+"code": "JNU"
+}{
+"state": "Alaska",
+"city": "Kake",
+"airport": "Kake SPB",
+"code": "KAE"
+}{
+"state": "Alaska",
+"city": "Kakhonak",
+"airport": "Kakhonak",
+"code": "KNK"
+}{
+"state": "Alaska",
+"city": "Kalskag",
+"airport": "Kalskag Municipal",
+"code": "KLG"
+}{
+"state": "Alaska",
+"city": "Kaltag",
+"airport": "Kaltag",
+"code": "KAL"
+}{
+"state": "Alaska",
+"city": "Karluk",
+"airport": "Karluk",
+"code": "KYK"
+}{
+"state": "Alaska",
+"city": "Kasaan",
+"airport": "Kasaan SPB",
+"code": "KXA"
+}{
+"state": "Alaska",
+"city": "Kasigluk",
+"airport": "Kasigluk",
+"code": "KUK"
+}{
+"state": "Alaska",
+"city": "Kenai",
+"airport": "Kenai",
+"code": "ENA"
+}{
+"state": "Alaska",
+"city": "Ketchikan",
+"airport": "Ketchikan International",
+"code": "KTN"
+}{
+"state": "Alaska",
+"city": "Kiana",
+"airport": "Kiana Bob Baker Memorial Airport",
+"code": "IAN"
+}{
+"state": "Alaska",
+"city": "King Cove",
+"airport": "King Cove",
+"code": "KVC"
+}{
+"state": "Alaska",
+"city": "King Salmon",
+"airport": "King Salmon",
+"code": "AKN"
+}{
+"state": "Alaska",
+"city": "Kipnuk",
+"airport": "Kipnuk SPB",
+"code": "KPN"
+}{
+"state": "Alaska",
+"city": "Kitoi Bay",
+"airport": "Kitoi Bay SPB",
+"code": "KKB"
+}{
+"state": "Alaska",
+"city": "Kivalina",
+"airport": "Kivalina",
+"code": "KVL"
+}{
+"state": "Alaska",
+"city": "Klawock",
+"airport": "Klawock",
+"code": "KLW"
+}{
+"state": "Alaska",
+"city": "Kobuk",
+"airport": "Kobuk Wien",
+"code": "OBU"
+}{
+"state": "Alaska",
+"city": "Kodiak",
+"airport": "Kodiak Airport",
+"code": "ADQ"
+}{
+"state": "Alaska",
+"city": "Kongiganak",
+"airport": "Kongiganak",
+"code": "KKH"
+}{
+"state": "Alaska",
+"city": "Kotlik",
+"airport": "Kotlik",
+"code": "KOT"
+}{
+"state": "Alaska",
+"city": "Kotzebue",
+"airport": "Kotzebue",
+"code": "OTZ"
+}{
+"state": "Alaska",
+"city": "Koyuk",
+"airport": "Koyuk",
+"code": "KKA"
+}{
+"state": "Alaska",
+"city": "Koyukuk",
+"airport": "Koyukuk",
+"code": "KYU"
+}{
+"state": "Alaska",
+"city": "Kwethluk",
+"airport": "Kwethluk",
+"code": "KWT"
+}{
+"state": "Alaska",
+"city": "Kwigillingok",
+"airport": "Kwigillingok",
+"code": "KWK"
+}{
+"state": "Alaska",
+"city": "Lake Minchumina",
+"airport": "Lake Minchumina",
+"code": "LMA"
+}{
+"state": "Alaska",
+"city": "Larsen Bay",
+"airport": "Larsen Bay Larsen SPB",
+"code": "KLN"
+}{
+"state": "Alaska",
+"city": "Levelock",
+"airport": "Levelock",
+"code": "KLL"
+}{
+"state": "Alaska",
+"city": "Manley Hot Springs",
+"airport": "Manley Hot Springs",
+"code": "MLY"
+}{
+"state": "Alaska",
+"city": "Manokotak",
+"airport": "Manokotak SPB",
+"code": "KMO"
+}{
+"state": "Alaska",
+"city": "Marshall",
+"airport": "Marshall",
+"code": "MLL"
+}{
+"state": "Alaska",
+"city": "Mcgrath",
+"airport": "Mcgrath",
+"code": "MCG"
+}{
+"state": "Alaska",
+"city": "Mekoryuk",
+"airport": "Mekoryuk Ellis Field",
+"code": "MYU"
+}{
+"state": "Alaska",
+"city": "Metlakatla",
+"airport": "Metlakatla SPB",
+"code": "MTM"
+}{
+"state": "Alaska",
+"city": "Meyers Chuck",
+"airport": "Meyers Chuck SPB",
+"code": "WMK"
+}{
+"state": "Alaska",
+"city": "Minto",
+"airport": "Minto",
+"code": "MNT"
+}{
+"state": "Alaska",
+"city": "Moser Bay",
+"airport": "Moser Bay",
+"code": "KMY"
+}{
+"state": "Alaska",
+"city": "Mountain Village",
+"airport": "Mountain Village",
+"code": "MOU"
+}{
+"state": "Alaska",
+"city": "Nanwalek",
+"airport": "Nanwalek",
+"code": "KEB"
+}{
+"state": "Alaska",
+"city": "Napakiak",
+"airport": "Napakiak SPB",
+"code": "WNA"
+}{
+"state": "Alaska",
+"city": "Napaskiak",
+"airport": "Napaskiak SPB",
+"code": "PKA"
+}{
+"state": "Alaska",
+"city": "Naukiti",
+"airport": "Naukiti",
+"code": "NKI"
+}{
+"state": "Alaska",
+"city": "Nelson Lagoon",
+"airport": "Nelson Lagoon",
+"code": "NLG"
+}{
+"state": "Alaska",
+"city": "New Chenega",
+"airport": "New Chenega",
+"code": "NCN"
+}{
+"state": "Alaska",
+"city": "New Koliganek",
+"airport": "New Koliganek",
+"code": "KGK"
+}{
+"state": "Alaska",
+"city": "New Stuyahok",
+"airport": "New Stuyahok",
+"code": "KNW"
+}{
+"state": "Alaska",
+"city": "Newtok",
+"airport": "Newtok",
+"code": "WWT"
+}{
+"state": "Alaska",
+"city": "Nightmute",
+"airport": "Nightmute",
+"code": "NME"
+}{
+"state": "Alaska",
+"city": "Nikolai",
+"airport": "Nikolai",
+"code": "NIB"
+}{
+"state": "Alaska",
+"city": "Nikolski",
+"airport": "Nikolski AFS",
+"code": "IKO"
+}{
+"state": "Alaska",
+"city": "Noatak",
+"airport": "Noatak",
+"code": "WTK"
+}{
+"state": "Alaska",
+"city": "Nome",
+"airport": "Nome",
+"code": "OME"
+}{
+"state": "Alaska",
+"city": "Nondalton",
+"airport": "Nondalton",
+"code": "NNL"
+}{
+"state": "Alaska",
+"city": "Noorvik",
+"airport": "Noorvik Curtis Memorial",
+"code": "ORV"
+}{
+"state": "Alaska",
+"city": "Nuiqsut",
+"airport": "Nuiqsut",
+"code": "NUI"
+}{
+"state": "Alaska",
+"city": "Nulato",
+"airport": "Nulato",
+"code": "NUL"
+}{
+"state": "Alaska",
+"city": "Nunapitchuk",
+"airport": "Nunapitchuk",
+"code": "NUP"
+}{
+"state": "Alaska",
+"city": "Old Harbor",
+"airport": "Old Harbor SPB",
+"code": "OLH"
+}{
+"state": "Alaska",
+"city": "Olga Bay",
+"airport": "Olga Bay SPB",
+"code": "KOY"
+}{
+"state": "Alaska",
+"city": "Ouzinkie",
+"airport": "Ouzinkie SPB",
+"code": "KOZ"
+}{
+"state": "Alaska",
+"city": "Painter Creek",
+"airport": "Painter Creek",
+"code": "PCE"
+}{
+"state": "Alaska",
+"city": "Pedro Bay",
+"airport": "Pedro Bay",
+"code": "PDB"
+}{
+"state": "Alaska",
+"city": "Pelican",
+"airport": "Pelican SPB",
+"code": "PEC"
+}{
+"state": "Alaska",
+"city": "Perryville",
+"airport": "Perryville SPB",
+"code": "KPV"
+}{
+"state": "Alaska",
+"city": "Petersburg",
+"airport": "Petersburg Municipal",
+"code": "PSG"
+}{
+"state": "Alaska",
+"city": "Pilot Point",
+"airport": "Pilot Point Arpt",
+"code": "PIP"
+}{
+"state": "Alaska",
+"city": "Pilot Point",
+"airport": "Pilot Point Ugashik Bay",
+"code": "UGB"
+}{
+"state": "Alaska",
+"city": "Pilot Station",
+"airport": "Pilot Station",
+"code": "PQS"
+}{
+"state": "Alaska",
+"city": "Platinum",
+"airport": "Platinum",
+"code": "PTU"
+}{
+"state": "Alaska",
+"city": "Point Baker",
+"airport": "Point Baker SPB",
+"code": "KPB"
+}{
+"state": "Alaska",
+"city": "Point Hope",
+"airport": "Point Hope",
+"code": "PHO"
+}{
+"state": "Alaska",
+"city": "Point Lay",
+"airport": "Point Lay Dew Station",
+"code": "PIZ"
+}{
+"state": "Alaska",
+"city": "Port Alsworth",
+"airport": "Port Alsworth",
+"code": "PTA"
+}{
+"state": "Alaska",
+"city": "Port Bailey",
+"airport": "Port Bailey SPB",
+"code": "KPY"
+}{
+"state": "Alaska",
+"city": "Port Clarence",
+"airport": "Port Clarence",
+"code": "KPC"
+}{
+"state": "Alaska",
+"city": "Port Graham",
+"airport": "Port Graham",
+"code": "PGM"
+}{
+"state": "Alaska",
+"city": "Port Heiden",
+"airport": "Port Heiden",
+"code": "PTH"
+}{
+"state": "Alaska",
+"city": "Port Lions",
+"airport": "Port Lions SPB",
+"code": "ORI"
+}{
+"state": "Alaska",
+"city": "Port Moller",
+"airport": "Port Moller AFS",
+"code": "PML"
+}{
+"state": "Alaska",
+"city": "Port Protection",
+"airport": "Port Protection",
+"code": "PPV"
+}{
+"state": "Alaska",
+"city": "Port Williams",
+"airport": "Port Williams SPB",
+"code": "KPR"
+}{
+"state": "Alaska",
+"city": "Prudhoe Bay/Deadhorse",
+"airport": "Deadhorse Prudhoe Bay",
+"code": "SCC"
+}{
+"state": "Alaska",
+"city": "Quinhagak",
+"airport": "Quinhagak Kwinhagak",
+"code": "KWN"
+}{
+"state": "Alaska",
+"city": "Rampart",
+"airport": "Rampart",
+"code": "RMP"
+}{
+"state": "Alaska",
+"city": "Red Devil",
+"airport": "Red Devil",
+"code": "RDV"
+}{
+"state": "Alaska",
+"city": "Red Dog",
+"airport": "Red Dog",
+"code": "RDB"
+}{
+"state": "Alaska",
+"city": "Ruby",
+"airport": "Ruby",
+"code": "RBY"
+}{
+"state": "Alaska",
+"city": "Russian Mission",
+"airport": "Russian Mission Russian SPB",
+"code": "RSH"
+}{
+"state": "Alaska",
+"city": "Saint Marys",
+"airport": "Saint Marys",
+"code": "KSM"
+}{
+"state": "Alaska",
+"city": "Saint Paul Island",
+"airport": "Saint Paul Island",
+"code": "SNP"
+}{
+"state": "Alaska",
+"city": "Sand Point",
+"airport": "Sand Point Municipal",
+"code": "SDP"
+}{
+"state": "Alaska",
+"city": "Savoonga",
+"airport": "Savoonga",
+"code": "SVA"
+}{
+"state": "Alaska",
+"city": "Scammon Bay",
+"airport": "Scammon Bay SPB",
+"code": "SCM"
+}{
+"state": "Alaska",
+"city": "Seal Bay",
+"airport": "Seal Bay",
+"code": "SYB"
+}{
+"state": "Alaska",
+"city": "Selawik",
+"airport": "Selawik",
+"code": "WLK"
+}{
+"state": "Alaska",
+"city": "Seldovia",
+"airport": "Seldovia",
+"code": "SOV"
+}{
+"state": "Alaska",
+"city": "Shageluk",
+"airport": "Shageluk",
+"code": "SHX"
+}{
+"state": "Alaska",
+"city": "Shaktoolik",
+"airport": "Shaktoolik",
+"code": "SKK"
+}{
+"state": "Alaska",
+"city": "Sheldon Point",
+"airport": "Sheldon Point Sheldon SPB",
+"code": "SXP"
+}{
+"state": "Alaska",
+"city": "Shishmaref",
+"airport": "Shishmaref",
+"code": "SHH"
+}{
+"state": "Alaska",
+"city": "Shungnak",
+"airport": "Shungnak",
+"code": "SHG"
+}{
+"state": "Alaska",
+"city": "Sitka",
+"airport": "Sitka",
+"code": "SIT"
+}{
+"state": "Alaska",
+"city": "Skagway",
+"airport": "Skagway Municipal",
+"code": "SGY"
+}{
+"state": "Alaska",
+"city": "Sleetmute",
+"airport": "Sleetmute",
+"code": "SLQ"
+}{
+"state": "Alaska",
+"city": "South Naknek",
+"airport": "South Naknek",
+"code": "WSN"
+}{
+"state": "Alaska",
+"city": "St George Island",
+"airport": "St George Island",
+"code": "STG"
+}{
+"state": "Alaska",
+"city": "St Michael",
+"airport": "St Michael",
+"code": "SMK"
+}{
+"state": "Alaska",
+"city": "Stebbins",
+"airport": "Stebbins",
+"code": "WBB"
+}{
+"state": "Alaska",
+"city": "Stevens Village",
+"airport": "Stevens Village",
+"code": "SVS"
+}{
+"state": "Alaska",
+"city": "Stony River",
+"airport": "Stony River",
+"code": "SRV"
+}{
+"state": "Alaska",
+"city": "Takotna",
+"airport": "Takotna",
+"code": "TCT"
+}{
+"state": "Alaska",
+"city": "Tanana",
+"airport": "Tanana Ralph Calhoun",
+"code": "TAL"
+}{
+"state": "Alaska",
+"city": "Tatalina",
+"airport": "Tatalina AFS",
+"code": "TLJ"
+}{
+"state": "Alaska",
+"city": "Tatitlek",
+"airport": "Tatitlek",
+"code": "TEK"
+}{
+"state": "Alaska",
+"city": "Teller",
+"airport": "Teller",
+"code": "TLA"
+}{
+"state": "Alaska",
+"city": "Teller Mission",
+"airport": "Teller Mission Brevig Mission",
+"code": "KTS"
+}{
+"state": "Alaska",
+"city": "Tenakee Springs",
+"airport": "Tenakee Springs Tenakee SPB",
+"code": "TKE"
+}{
+"state": "Alaska",
+"city": "Thorne Bay",
+"airport": "Thorne Bay",
+"code": "KTB"
+}{
+"state": "Alaska",
+"city": "Tin City",
+"airport": "Tin City AFS",
+"code": "TNC"
+}{
+"state": "Alaska",
+"city": "Togiak Village",
+"airport": "Togiak Village",
+"code": "TOG"
+}{
+"state": "Alaska",
+"city": "Tok",
+"airport": "Tok",
+"code": "TKJ"
+}{
+"state": "Alaska",
+"city": "Toksook Bay",
+"airport": "Toksook Bay",
+"code": "OOK"
+}{
+"state": "Alaska",
+"city": "Tuluksak",
+"airport": "Tuluksak",
+"code": "TLT"
+}{
+"state": "Alaska",
+"city": "Tuntutuliak",
+"airport": "Tuntutuliak",
+"code": "WTL"
+}{
+"state": "Alaska",
+"city": "Tununak",
+"airport": "Tununak",
+"code": "TNK"
+}{
+"state": "Alaska",
+"city": "Twin Hills",
+"airport": "Twin Hills",
+"code": "TWA"
+}{
+"state": "Alaska",
+"city": "Uganik",
+"airport": "Uganik",
+"code": "UGI"
+}{
+"state": "Alaska",
+"city": "Unalakleet",
+"airport": "Unalakleet",
+"code": "UNK"
+}{
+"state": "Alaska",
+"city": "Valdez",
+"airport": "Valdez Municipal",
+"code": "VDZ"
+}{
+"state": "Alaska",
+"city": "Venetie",
+"airport": "Venetie",
+"code": "VEE"
+}{
+"state": "Alaska",
+"city": "Wainwright",
+"airport": "Wainwright",
+"code": "AIN"
+}{
+"state": "Alaska",
+"city": "Wales",
+"airport": "Wales",
+"code": "WAA"
+}{
+"state": "Alaska",
+"city": "Waterfall",
+"airport": "Waterfall SPB",
+"code": "KWF"
+}{
+"state": "Alaska",
+"city": "West Point",
+"airport": "West Point Village SPB",
+"code": "KWP"
+}{
+"state": "Alaska",
+"city": "Whale Pass",
+"airport": "Whale Pass",
+"code": "WWP"
+}{
+"state": "Alaska",
+"city": "White Mountain",
+"airport": "White Mountain",
+"code": "WMO"
+}{
+"state": "Alaska",
+"city": "Wrangell",
+"airport": "Wrangell SPB",
+"code": "WRG"
+}{
+"state": "Alaska",
+"city": "Yakutat",
+"airport": "Yakutat",
+"code": "YAK"
+}{
+"state": "Alaska",
+"city": "Zachar Bay",
+"airport": "Zachar Bay SPB",
+"code": "KZB"
+}{
+"state": "Arizona",
+"city": "Bullhead City",
+"airport": "Laughlin Bullhead Intl",
+"code": "IFP"
+}{
+"state": "Arizona",
+"city": "Flagstaff/Grand Canyon",
+"airport": "Flagstaff Pulliam Field",
+"code": "FLG"
+}{
+"state": "Arizona",
+"city": "Flagstaff/Grand Canyon",
+"airport": "Grand Canyon Heliport",
+"code": "JGC"
+}{
+"state": "Arizona",
+"city": "Havasupai",
+"airport": "Havasupai",
+"code": "HAE"
+}{
+"state": "Arizona",
+"city": "Kingman",
+"airport": "Kingman",
+"code": "IGM"
+}{
+"state": "Arizona",
+"city": "Page",
+"airport": "Page",
+"code": "PGA"
+}{
+"state": "Arizona",
+"city": "Phoenix",
+"airport": "Phoenix Luke AFB",
+"code": "LUF"
+}{
+"state": "Arizona",
+"city": "Phoenix",
+"airport": "Phoenix Sky Harbor Intl",
+"code": "PHX"
+}{
+"state": "Arizona",
+"city": "Prescott",
+"airport": "Prescott",
+"code": "PRC"
+}{
+"state": "Arizona",
+"city": "Show Low",
+"airport": "Show Low",
+"code": "SOW"
+}{
+"state": "Arizona",
+"city": "Tucson",
+"airport": "Tucson International",
+"code": "TUS"
+}{
+"state": "Arizona",
+"city": "Yuma",
+"airport": "Yuma International",
+"code": "YUM"
+}{
+"state": "Arkansas",
+"city": "Fayetteville",
+"airport": "Fayetteville Municipal Drake Fld",
+"code": "FYV"
+}{
+"state": "Arkansas",
+"city": "Fayetteville",
+"airport": "Northwest Arkansas Regional Airport",
+"code": "XNA"
+}{
+"state": "Arkansas",
+"city": "Fort Smith",
+"airport": "Fort Smith Regional Airport",
+"code": "FSM"
+}{
+"state": "Arkansas",
+"city": "Little Rock",
+"airport": "Little Rock National Airport",
+"code": "LIT"
+}{
+"state": "Arkansas",
+"city": "Texarkana",
+"airport": "Texarkana Municipal",
+"code": "TXK"
+}{
+"state": "California",
+"city": "Arcata",
+"airport": "Eureka Arcata",
+"code": "ACV"
+}{
+"state": "California",
+"city": "Bakersfield",
+"airport": "Bakersfield Meadows Field",
+"code": "BFL"
+}{
+"state": "California",
+"city": "Burbank",
+"airport": "Hollywood Burbank Airport",
+"code": "BUR"
+}{
+"state": "California",
+"city": "Carmel",
+"airport": "Carmel Monterey Peninsula",
+"code": "MRY"
+}{
+"state": "California",
+"city": "Chico",
+"airport": "Chico",
+"code": "CIC"
+}{
+"state": "California",
+"city": "Crescent City",
+"airport": "Crescent City Mc Namara Fld",
+"code": "CEC"
+}{
+"state": "California",
+"city": "El Centro",
+"airport": "El Centro Imperial Imperial County",
+"code": "IPL"
+}{
+"state": "California",
+"city": "Fresno",
+"airport": "Fresno Airterminal",
+"code": "FAT"
+}{
+"state": "California",
+"city": "Herlong",
+"airport": "Herlong Amedee AAF",
+"code": "AHC"
+}{
+"state": "California",
+"city": "Inyokern",
+"airport": "Inyokern Kern County",
+"code": "IYK"
+}{
+"state": "California",
+"city": "Long Beach",
+"airport": "Long Beach Municipal",
+"code": "LGB"
+}{
+"state": "California",
+"city": "Los Angeles",
+"airport": "Los Angeles International",
+"code": "LAX"
+}{
+"state": "California",
+"city": "Mammoth Lakes",
+"airport": "Mammoth Lakes",
+"code": "MMH"
+}{
+"state": "California",
+"city": "Merced",
+"airport": "Merced Municipal Arpt",
+"code": "MCE"
+}{
+"state": "California",
+"city": "Modesto",
+"airport": "Modesto Municipal",
+"code": "MOD"
+}{
+"state": "California",
+"city": "Oakland",
+"airport": "Oakland Metropolitan Oak Intl",
+"code": "OAK"
+}{
+"state": "California",
+"city": "Ontario",
+"airport": "Ontario International",
+"code": "ONT"
+}{
+"state": "California",
+"city": "Oxnard",
+"airport": "Oxnard Ventura",
+"code": "OXR"
+}{
+"state": "California",
+"city": "Palm Springs",
+"airport": "Palm Springs International Airport",
+"code": "PSP"
+}{
+"state": "California",
+"city": "Palmdale",
+"airport": "Palmdale Air Force 42",
+"code": "PMD"
+}{
+"state": "California",
+"city": "Redding",
+"airport": "Redding",
+"code": "RDD"
+}{
+"state": "California",
+"city": "Riverside",
+"airport": "Riverside Municipal",
+"code": "RAL"
+}{
+"state": "California",
+"city": "Riverside",
+"airport": "Riverside March AFB",
+"code": "RIV"
+}{
+"state": "California",
+"city": "Sacramento",
+"airport": "Sacramento Mather AFB",
+"code": "MHR"
+}{
+"state": "California",
+"city": "Sacramento",
+"airport": "Sacramento Executive",
+"code": "SAC"
+}{
+"state": "California",
+"city": "Sacramento",
+"airport": "Stockton",
+"code": "SCK"
+}{
+"state": "California",
+"city": "Sacramento",
+"airport": "Sacramento International",
+"code": "SMF"
+}{
+"state": "California",
+"city": "San Diego",
+"airport": "San Diego Carlsbad",
+"code": "CLD"
+}{
+"state": "California",
+"city": "San Diego",
+"airport": "San Diego Lindbergh Fld SDiego",
+"code": "SAN"
+}{
+"state": "California",
+"city": "San Francisco",
+"airport": "San Francisco International",
+"code": "SFO"
+}{
+"state": "California",
+"city": "San Jose",
+"airport": "San Jose International",
+"code": "SJC"
+}{
+"state": "California",
+"city": "San Luis Obispo",
+"airport": "San Luis Obispo OSullivan AAF",
+"code": "CSL"
+}{
+"state": "California",
+"city": "San Luis Obispo",
+"airport": "San Luis Obispo County Airport",
+"code": "SBP"
+}{
+"state": "California",
+"city": "Santa Ana",
+"airport": "Orange County John Wayne",
+"code": "SNA"
+}{
+"state": "California",
+"city": "Santa Barbara",
+"airport": "Santa Barbara Airport",
+"code": "SBA"
+}{
+"state": "California",
+"city": "Santa Maria",
+"airport": "Santa Maria Public",
+"code": "SMX"
+}{
+"state": "California",
+"city": "Santa Rosa",
+"airport": "Santa Rosa Sonoma County",
+"code": "STS"
+}{
+"state": "California",
+"city": "Victorville",
+"airport": "Victorville George AFB",
+"code": "VCV"
+}{
+"state": "California",
+"city": "Visalia",
+"airport": "Visalia",
+"code": "VIS"
+}{
+"state": "Colorado",
+"city": "Alamosa",
+"airport": "Alamosa Municipal",
+"code": "ALS"
+}{
+"state": "Colorado",
+"city": "Aspen",
+"airport": "Aspen",
+"code": "ASE"
+}{
+"state": "Colorado",
+"city": "Colorado Springs",
+"airport": "Colorado Springs Municipal",
+"code": "COS"
+}{
+"state": "Colorado",
+"city": "Cortez",
+"airport": "Cortez Montezuma County",
+"code": "CEZ"
+}{
+"state": "Colorado",
+"city": "Denver",
+"airport": "Denver Arapahoe Co",
+"code": "APA"
+}{
+"state": "Colorado",
+"city": "Denver",
+"airport": "Denver International",
+"code": "DEN"
+}{
+"state": "Colorado",
+"city": "Durango",
+"airport": "Durango La Plata",
+"code": "DRO"
+}{
+"state": "Colorado",
+"city": "Fort Collins/Loveland",
+"airport": "Fort Collins Loveland Municipal Airport",
+"code": "FNL"
+}{
+"state": "Colorado",
+"city": "Grand Junction",
+"airport": "Grand Junction Walker Field",
+"code": "GJT"
+}{
+"state": "Colorado",
+"city": "Gunnison",
+"airport": "Gunnison Crested Butte Regional Airport",
+"code": "GUC"
+}{
+"state": "Colorado",
+"city": "Hayden",
+"airport": "Hayden Yampa Valley Steamboat Springs",
+"code": "HDN"
+}{
+"state": "Colorado",
+"city": "Montrose",
+"airport": "Montrose Telluride",
+"code": "MTJ"
+}{
+"state": "Colorado",
+"city": "Pueblo",
+"airport": "Pueblo Memorial",
+"code": "PUB"
+}{
+"state": "Colorado",
+"city": "Telluride",
+"airport": "Telluride",
+"code": "TEX"
+}{
+"state": "Colorado",
+"city": "Vail/Eagle",
+"airport": "Eagle Vail Eagle County",
+"code": "EGE"
+}{
+"state": "Connecticut",
+"city": "Bridgeport",
+"airport": "Bridgeport Igor I Sikorsky Mem",
+"code": "BDR"
+}{
+"state": "Connecticut",
+"city": "Hartford",
+"airport": "Hartford Brainard",
+"code": "HFD"
+}{
+"state": "Connecticut",
+"city": "New Haven",
+"airport": "New Haven",
+"code": "HVN"
+}{
+"state": "Connecticut",
+"city": "New Haven",
+"airport": "New Haven Rail",
+"code": "ZVE"
+}{
+"state": "Connecticut",
+"city": "Windsor Locks",
+"airport": "Hartford Springfield Windsor Locks Bradley International",
+"code": "BDL"
+}{
+"state": "Delaware",
+"city": "Wilmington",
+"airport": "Greater Wilmington",
+"code": "ILG"
+}{
+"state": "Delaware",
+"city": "Wilmington",
+"airport": "Wilmington Rail",
+"code": "ZWI"
+}{
+"state": "Florida",
+"city": "Bartow",
+"airport": "Bartow",
+"code": "BOW"
+}{
+"state": "Florida",
+"city": "Bradenton",
+"airport": "Sarasota Bradenton",
+"code": "SRQ"
+}{
+"state": "Florida",
+"city": "Clearwater",
+"airport": "Clearwater Executive",
+"code": "CLW"
+}{
+"state": "Florida",
+"city": "Clearwater",
+"airport": "Clearwater St Petersburg International",
+"code": "PIE"
+}{
+"state": "Florida",
+"city": "Daytona Beach",
+"airport": "Daytona Beach International",
+"code": "DAB"
+}{
+"state": "Florida",
+"city": "Destin",
+"airport": "Destin Fort Walton Beach",
+"code": "VPS"
+}{
+"state": "Florida",
+"city": "Fort Lauderdale",
+"airport": "Fort Lauderdale International",
+"code": "FLL"
+}{
+"state": "Florida",
+"city": "Fort Myers",
+"airport": "Fort Myers Southwest Florida Reg",
+"code": "RSW"
+}{
+"state": "Florida",
+"city": "Gainesville",
+"airport": "Gainesville Regional Airport",
+"code": "GNV"
+}{
+"state": "Florida",
+"city": "Jacksonville",
+"airport": "Jacksonville International",
+"code": "JAX"
+}{
+"state": "Florida",
+"city": "Jacksonville",
+"airport": "Jacksonville NAS",
+"code": "NIP"
+}{
+"state": "Florida",
+"city": "Key West",
+"airport": "Key West International",
+"code": "EYW"
+}{
+"state": "Florida",
+"city": "Melbourne",
+"airport": "Melbourne Intl",
+"code": "MLB"
+}{
+"state": "Florida",
+"city": "Miami",
+"airport": "Miami International",
+"code": "MIA"
+}{
+"state": "Florida",
+"city": "Miami",
+"airport": "Miami Opa Locka",
+"code": "OPF"
+}{
+"state": "Florida",
+"city": "Naples",
+"airport": "Naples",
+"code": "APF"
+}{
+"state": "Florida",
+"city": "Orlando",
+"airport": "Orlando International",
+"code": "MCO"
+}{
+"state": "Florida",
+"city": "Panama City",
+"airport": "Northwest Florida Beaches International Airport",
+"code": "ECP"
+}{
+"state": "Florida",
+"city": "Panama City",
+"airport": "Panama City Bay County",
+"code": "PFN"
+}{
+"state": "Florida",
+"city": "Pensacola",
+"airport": "Pensacola Regional",
+"code": "PNS"
+}{
+"state": "Florida",
+"city": "Tallahassee",
+"airport": "Tallahassee Municipal",
+"code": "TLH"
+}{
+"state": "Florida",
+"city": "Tampa",
+"airport": "Tampa International",
+"code": "TPA"
+}{
+"state": "Florida",
+"city": "West Palm Beach",
+"airport": "West Palm Beach International",
+"code": "PBI"
+}{
+"state": "Georgia",
+"city": "Albany",
+"airport": "Albany Dougherty County",
+"code": "ABY"
+}{
+"state": "Georgia",
+"city": "Atlanta",
+"airport": "Atlanta Hartsfield Jackson",
+"code": "ATL"
+}{
+"state": "Georgia",
+"city": "Augusta",
+"airport": "Augusta Bush Field",
+"code": "AGS"
+}{
+"state": "Georgia",
+"city": "Brunswick",
+"airport": "Brunswick Glynco Jetport",
+"code": "BQK"
+}{
+"state": "Georgia",
+"city": "Brunswick",
+"airport": "Brunswick Mckinnon",
+"code": "SSI"
+}{
+"state": "Georgia",
+"city": "Columbus",
+"airport": "Columbus Metropolitan",
+"code": "CSG"
+}{
+"state": "Georgia",
+"city": "Macon",
+"airport": "Macon Lewis B Wilson",
+"code": "MCN"
+}{
+"state": "Georgia",
+"city": "Savannah",
+"airport": "Hilton Head Savannah",
+"code": "SAV"
+}{
+"state": "Georgia",
+"city": "Valdosta",
+"airport": "Valdosta Regional",
+"code": "VLD"
+}{
+"state": "Hawaii",
+"city": "Hana",
+"airport": "Maui Hana",
+"code": "HNM"
+}{
+"state": "Hawaii",
+"city": "Hilo",
+"airport": "Hilo Big Island Hilo International",
+"code": "ITO"
+}{
+"state": "Hawaii",
+"city": "Honolulu",
+"airport": "Honolulu International Airport",
+"code": "HNL"
+}{
+"state": "Hawaii",
+"city": "Hoolehua",
+"airport": "Hoolehua Molokai",
+"code": "MKK"
+}{
+"state": "Hawaii",
+"city": "Kahului",
+"airport": "Kahului Airport Kahului Maui",
+"code": "OGG"
+}{
+"state": "Hawaii",
+"city": "Kalaupapa",
+"airport": "Molokai Kalaupapa",
+"code": "LUP"
+}{
+"state": "Hawaii",
+"city": "Kamuela",
+"airport": "Big Island Kamuela",
+"code": "MUE"
+}{
+"state": "Hawaii",
+"city": "Kapalua",
+"airport": "Maui Kapalua",
+"code": "JHM"
+}{
+"state": "Hawaii",
+"city": "Kauai Island",
+"airport": "Kauai Island Lihue",
+"code": "LIH"
+}{
+"state": "Hawaii",
+"city": "Kona",
+"airport": "Kona Big Island Keahole",
+"code": "KOA"
+}{
+"state": "Hawaii",
+"city": "Lanai City",
+"airport": "Lanai City",
+"code": "LNY"
+}{
+"state": "Idaho",
+"city": "Boise",
+"airport": "Boise Air Term Gowen Fld",
+"code": "BOI"
+}{
+"state": "Idaho",
+"city": "Hailey",
+"airport": "Hailey Sun Valley",
+"code": "SUN"
+}{
+"state": "Idaho",
+"city": "Idaho Falls",
+"airport": "Idaho Falls Fanning Field",
+"code": "IDA"
+}{
+"state": "Idaho",
+"city": "Lewiston",
+"airport": "Lewiston Nez Perce County Rgnl",
+"code": "LWS"
+}{
+"state": "Idaho",
+"city": "Mccall",
+"airport": "Mccall",
+"code": "MYL"
+}{
+"state": "Idaho",
+"city": "Pocatello",
+"airport": "Pocatello",
+"code": "PIH"
+}{
+"state": "Idaho",
+"city": "Salmon",
+"airport": "Salmon",
+"code": "SMN"
+}{
+"state": "Idaho",
+"city": "Twin Falls",
+"airport": "Twin Falls City County",
+"code": "TWF"
+}{
+"state": "Illinois",
+"city": "Belleville",
+"airport": "Belleville",
+"code": "BLV"
+}{
+"state": "Illinois",
+"city": "Bloomington-Normal",
+"airport": "Bloomington Normal",
+"code": "BMI"
+}{
+"state": "Illinois",
+"city": "Champaign",
+"airport": "Champaign Willard University",
+"code": "CMI"
+}{
+"state": "Illinois",
+"city": "Chicago",
+"airport": "Chicago",
+"code": "CHI"
+}{
+"state": "Illinois",
+"city": "Chicago",
+"airport": "Chicago Midway",
+"code": "MDW"
+}{
+"state": "Illinois",
+"city": "Chicago",
+"airport": "Chicago OHare International",
+"code": "ORD"
+}{
+"state": "Illinois",
+"city": "Chicago",
+"airport": "Chicago",
+"code": "PWK"
+}{
+"state": "Illinois",
+"city": "Decatur",
+"airport": "Decatur Arpt",
+"code": "DEC"
+}{
+"state": "Illinois",
+"city": "Marion",
+"airport": "Marion Williamson County",
+"code": "MWA"
+}{
+"state": "Illinois",
+"city": "Moline",
+"airport": "Moline Quad City",
+"code": "MLI"
+}{
+"state": "Illinois",
+"city": "Peoria",
+"airport": "Greater Peoria",
+"code": "PIA"
+}{
+"state": "Illinois",
+"city": "Quincy",
+"airport": "Quincy Municipal",
+"code": "UIN"
+}{
+"state": "Illinois",
+"city": "Rockford",
+"airport": "Greater Rockford",
+"code": "RFD"
+}{
+"state": "Illinois",
+"city": "Springfield",
+"airport": "Springfield Capital",
+"code": "SPI"
+}{
+"state": "Indiana",
+"city": "Evansville",
+"airport": "Evansville Dress Regional",
+"code": "EVV"
+}{
+"state": "Indiana",
+"city": "Fort Wayne",
+"airport": "Fort Wayne International Airport",
+"code": "FWA"
+}{
+"state": "Indiana",
+"city": "Indianapolis",
+"airport": "Indianapolis International",
+"code": "IND"
+}{
+"state": "Indiana",
+"city": "South Bend",
+"airport": "South Bend Regional",
+"code": "SBN"
+}{
+"state": "Iowa",
+"city": "Burlington",
+"airport": "Burlington",
+"code": "BRL"
+}{
+"state": "Iowa",
+"city": "Cedar Rapids",
+"airport": "Cedar Rapids",
+"code": "CID"
+}{
+"state": "Iowa",
+"city": "Des Moines",
+"airport": "Des Moines",
+"code": "DSM"
+}{
+"state": "Iowa",
+"city": "Dubuque",
+"airport": "Dubuque Regional Airport",
+"code": "DBQ"
+}{
+"state": "Iowa",
+"city": "Fort Dodge",
+"airport": "Fort Dodge",
+"code": "FOD"
+}{
+"state": "Iowa",
+"city": "Mason City",
+"airport": "Mason City",
+"code": "MCW"
+}{
+"state": "Iowa",
+"city": "Sioux City",
+"airport": "Sioux City Sioux Gateway",
+"code": "SUX"
+}{
+"state": "Iowa",
+"city": "Waterloo",
+"airport": "Waterloo",
+"code": "ALO"
+}{
+"state": "Kansas",
+"city": "Dodge City",
+"airport": "Dodge City Municipal",
+"code": "DDC"
+}{
+"state": "Kansas",
+"city": "Garden City",
+"airport": "Garden City Municipal Airport",
+"code": "GCK"
+}{
+"state": "Kansas",
+"city": "Great Bend",
+"airport": "Great Bend",
+"code": "GBD"
+}{
+"state": "Kansas",
+"city": "Hays",
+"airport": "Hays Municipal",
+"code": "HYS"
+}{
+"state": "Kansas",
+"city": "Liberal",
+"airport": "Liberal Municipal",
+"code": "LBL"
+}{
+"state": "Kansas",
+"city": "Manhattan",
+"airport": "Manhattan Regional Airport",
+"code": "MHK"
+}{
+"state": "Kansas",
+"city": "Salina",
+"airport": "Salina",
+"code": "SLN"
+}{
+"state": "Kansas",
+"city": "Wichita",
+"airport": "Wichita Dwight D Eisenhower",
+"code": "ICT"
+}{
+"state": "Kentucky",
+"city": "Lexington",
+"airport": "Lexington Blue Grass",
+"code": "LEX"
+}{
+"state": "Kentucky",
+"city": "Louisville",
+"airport": "Louisville Bowman Field",
+"code": "LOU"
+}{
+"state": "Kentucky",
+"city": "Louisville",
+"airport": "Louisville Standiford Field",
+"code": "SDF"
+}{
+"state": "Kentucky",
+"city": "Owensboro",
+"airport": "Owensboro Daviess County",
+"code": "OWB"
+}{
+"state": "Kentucky",
+"city": "Paducah",
+"airport": "Paducah Barkley Regional",
+"code": "PAH"
+}{
+"state": "Louisiana",
+"city": "Alexandria",
+"airport": "Alexandria Internation",
+"code": "AEX"
+}{
+"state": "Louisiana",
+"city": "Baton Rouge",
+"airport": "Baton Rouge Ryan",
+"code": "BTR"
+}{
+"state": "Louisiana",
+"city": "Lafayette",
+"airport": "Lafayette Regional",
+"code": "LFT"
+}{
+"state": "Louisiana",
+"city": "Lake Charles",
+"airport": "Lake Charles Municipal",
+"code": "LCH"
+}{
+"state": "Louisiana",
+"city": "Monroe",
+"airport": "Monroe Municipal",
+"code": "MLU"
+}{
+"state": "Louisiana",
+"city": "New Iberia",
+"airport": "New Iberia Acadiana Regional",
+"code": "ARA"
+}{
+"state": "Louisiana",
+"city": "New Orleans",
+"airport": "New Orleans Louis Armstrong Intl",
+"code": "MSY"
+}{
+"state": "Louisiana",
+"city": "Shreveport",
+"airport": "Shreveport Regional",
+"code": "SHV"
+}{
+"state": "Maine",
+"city": "Augusta",
+"airport": "Augusta",
+"code": "AUG"
+}{
+"state": "Maine",
+"city": "Bangor",
+"airport": "Bangor International",
+"code": "BGR"
+}{
+"state": "Maine",
+"city": "Bar Harbor",
+"airport": "Bar Harbor",
+"code": "BHB"
+}{
+"state": "Maine",
+"city": "Portland",
+"airport": "Portland Intl Jetport",
+"code": "PWM"
+}{
+"state": "Maine",
+"city": "Presque Isle",
+"airport": "Presque Isle Municipal",
+"code": "PQI"
+}{
+"state": "Maine",
+"city": "Rockland",
+"airport": "Rockland Knox County Regional",
+"code": "RKD"
+}{
+"state": "Maryland",
+"city": "Baltimore",
+"airport": "Baltimore Washington International Airport",
+"code": "BWI"
+}{
+"state": "Maryland",
+"city": "Hagerstown",
+"airport": "Hagerstown Wash County Regional",
+"code": "HGR"
+}{
+"state": "Maryland",
+"city": "Salisbury-Ocean City",
+"airport": "Salisbury Ocean City Wicomico Regional",
+"code": "SBY"
+}{
+"state": "Massachusetts",
+"city": "Boston",
+"airport": "Boston Logan International",
+"code": "BOS"
+}{
+"state": "Massachusetts",
+"city": "Fall River",
+"airport": "Fall River New Bedford",
+"code": "EWB"
+}{
+"state": "Massachusetts",
+"city": "Hyannis",
+"airport": "Hyannis Barnstable",
+"code": "HYA"
+}{
+"state": "Massachusetts",
+"city": "Martha's Vineyard",
+"airport": "Marthas Vineyard",
+"code": "MVY"
+}{
+"state": "Massachusetts",
+"city": "Nantucket",
+"airport": "Nantucket Memorial",
+"code": "ACK"
+}{
+"state": "Massachusetts",
+"city": "Provincetown",
+"airport": "Provincetown",
+"code": "PVC"
+}{
+"state": "Massachusetts",
+"city": "Springfield",
+"airport": "Springfield",
+"code": "SFY"
+}{
+"state": "Massachusetts",
+"city": "Worcester",
+"airport": "Worcester",
+"code": "ORH"
+}{
+"state": "Michigan",
+"city": "Alpena",
+"airport": "Alpena County Regional",
+"code": "APN"
+}{
+"state": "Michigan",
+"city": "Battle Creek",
+"airport": "Battle Creek WK Kellogg Regional",
+"code": "BTL"
+}{
+"state": "Michigan",
+"city": "Bay City",
+"airport": "Saginaw Bay City Midland Tri City",
+"code": "MBS"
+}{
+"state": "Michigan",
+"city": "Detroit",
+"airport": "Detroit",
+"code": "DTT"
+}{
+"state": "Michigan",
+"city": "Detroit",
+"airport": "Detroit Metropolitan Wayne County Airport",
+"code": "DTW"
+}{
+"state": "Michigan",
+"city": "Detroit",
+"airport": "Detroit Willow Run",
+"code": "YIP"
+}{
+"state": "Michigan",
+"city": "Escanaba",
+"airport": "Escanaba Delta County Arpt",
+"code": "ESC"
+}{
+"state": "Michigan",
+"city": "Flint",
+"airport": "Flint Bishop",
+"code": "FNT"
+}{
+"state": "Michigan",
+"city": "Grand Rapids",
+"airport": "Gerald R Ford International Airport",
+"code": "GRR"
+}{
+"state": "Michigan",
+"city": "Hancock",
+"airport": "Hancock Houghton County",
+"code": "CMX"
+}{
+"state": "Michigan",
+"city": "Iron Mountain",
+"airport": "Iron Mountain Ford",
+"code": "IMT"
+}{
+"state": "Michigan",
+"city": "Ironwood",
+"airport": "Ironwood Gogebic County",
+"code": "IWD"
+}{
+"state": "Michigan",
+"city": "Kalamazoo",
+"airport": "Kalamazoo Battle Creek Intl",
+"code": "AZO"
+}{
+"state": "Michigan",
+"city": "Lansing",
+"airport": "Lansing Capital City",
+"code": "LAN"
+}{
+"state": "Michigan",
+"city": "Manistee",
+"airport": "Manistee Blacker",
+"code": "MBL"
+}{
+"state": "Michigan",
+"city": "Marquette",
+"airport": "Marquette Sawyer International",
+"code": "MQT"
+}{
+"state": "Michigan",
+"city": "Muskegon",
+"airport": "Muskegon",
+"code": "MKG"
+}{
+"state": "Michigan",
+"city": "Pellston",
+"airport": "Pellston Emmet County",
+"code": "PLN"
+}{
+"state": "Michigan",
+"city": "Sault Ste Marie",
+"airport": "Sault Ste Marie Chippewa County",
+"code": "CIU"
+}{
+"state": "Michigan",
+"city": "Sault Ste Marie",
+"airport": "Sault Ste Marie",
+"code": "SSM"
+}{
+"state": "Michigan",
+"city": "Traverse City",
+"airport": "Traverse City",
+"code": "TVC"
+}{
+"state": "Minnesota",
+"city": "Bemidji",
+"airport": "Bemidji",
+"code": "BJI"
+}{
+"state": "Minnesota",
+"city": "Brainerd",
+"airport": "Brainerd Crow Wing County",
+"code": "BRD"
+}{
+"state": "Minnesota",
+"city": "Chisholm",
+"airport": "Hibbing Chisholm",
+"code": "HIB"
+}{
+"state": "Minnesota",
+"city": "Duluth",
+"airport": "Duluth International",
+"code": "DLH"
+}{
+"state": "Minnesota",
+"city": "International Falls",
+"airport": "International Falls Falls Intl",
+"code": "INL"
+}{
+"state": "Minnesota",
+"city": "Minneapolis",
+"airport": "Minneapolis St Paul International",
+"code": "MSP"
+}{
+"state": "Minnesota",
+"city": "Rochester",
+"airport": "Rochester International Airport",
+"code": "RST"
+}{
+"state": "Minnesota",
+"city": "Saint Cloud",
+"airport": "Saint Cloud Municipal",
+"code": "STC"
+}{
+"state": "Minnesota",
+"city": "Thief River Falls",
+"airport": "Thief River Falls Regional",
+"code": "TVF"
+}{
+"state": "Mississippi",
+"city": "Columbus",
+"airport": "Columbus Golden Triangle Reg",
+"code": "GTR"
+}{
+"state": "Mississippi",
+"city": "Columbus",
+"airport": "Columbus Lowndes County",
+"code": "UBS"
+}{
+"state": "Mississippi",
+"city": "Greenville",
+"airport": "Greenville",
+"code": "GLH"
+}{
+"state": "Mississippi",
+"city": "Gulfport",
+"airport": "Gulfport Biloxi Regional",
+"code": "GPT"
+}{
+"state": "Mississippi",
+"city": "Jackson",
+"airport": "Jackson Intl",
+"code": "JAN"
+}{
+"state": "Mississippi",
+"city": "Laurel",
+"airport": "Laurel Hesler Noble Field",
+"code": "LUL"
+}{
+"state": "Mississippi",
+"city": "Laurel",
+"airport": "Hattiesburg Laurel Reg",
+"code": "PIB"
+}{
+"state": "Mississippi",
+"city": "Meridian",
+"airport": "Meridian Key Field",
+"code": "MEI"
+}{
+"state": "Mississippi",
+"city": "Tupelo",
+"airport": "Tupelo Lemons Municipal",
+"code": "TUP"
+}{
+"state": "Missouri",
+"city": "Cape Girardeau",
+"airport": "Cape Girardeau",
+"code": "CGI"
+}{
+"state": "Missouri",
+"city": "Columbia",
+"airport": "Columbia Regional",
+"code": "COU"
+}{
+"state": "Missouri",
+"city": "Fort Leonard Wood",
+"airport": "Fort Leonard Wood Forney AAF",
+"code": "TBN"
+}{
+"state": "Missouri",
+"city": "Jefferson City",
+"airport": "Jefferson City Memorial",
+"code": "JEF"
+}{
+"state": "Missouri",
+"city": "Joplin",
+"airport": "Joplin",
+"code": "JLN"
+}{
+"state": "Missouri",
+"city": "Kansas City",
+"airport": "Kansas City International",
+"code": "MCI"
+}{
+"state": "Missouri",
+"city": "Kirksville",
+"airport": "Kirksville Municipal",
+"code": "IRK"
+}{
+"state": "Missouri",
+"city": "Springfield",
+"airport": "Springfield Branson Rg",
+"code": "SGF"
+}{
+"state": "Missouri",
+"city": "St Louis",
+"airport": "Lambert St Louis Intl",
+"code": "STL"
+}{
+"state": "Montana",
+"city": "Billings",
+"airport": "Billings",
+"code": "BIL"
+}{
+"state": "Montana",
+"city": "Bozeman",
+"airport": "Bozeman Gallatin Field",
+"code": "BZN"
+}{
+"state": "Montana",
+"city": "Butte",
+"airport": "Butte",
+"code": "BTM"
+}{
+"state": "Montana",
+"city": "Glasgow",
+"airport": "Glasgow International",
+"code": "GGW"
+}{
+"state": "Montana",
+"city": "Glendive",
+"airport": "Glendive Dawson Community",
+"code": "GDV"
+}{
+"state": "Montana",
+"city": "Great Falls",
+"airport": "Great Falls International",
+"code": "GTF"
+}{
+"state": "Montana",
+"city": "Havre",
+"airport": "Havre City County",
+"code": "HVR"
+}{
+"state": "Montana",
+"city": "Helena",
+"airport": "Helena",
+"code": "HLN"
+}{
+"state": "Montana",
+"city": "Kalispell",
+"airport": "Kalispell Glacier National Park",
+"code": "FCA"
+}{
+"state": "Montana",
+"city": "Lewistown",
+"airport": "Lewistown Municipal",
+"code": "LWT"
+}{
+"state": "Montana",
+"city": "Missoula",
+"airport": "Missoula Johnson Bell Field",
+"code": "MSO"
+}{
+"state": "Montana",
+"city": "Sidney",
+"airport": "Sidney Richland Municipal",
+"code": "SDY"
+}{
+"state": "Montana",
+"city": "West Yellowstone",
+"airport": "West Yellowstone Yellowstone",
+"code": "WYS"
+}{
+"state": "Montana",
+"city": "Wolf Point",
+"airport": "Wolf Point International",
+"code": "OLF"
+}{
+"state": "Nebraska",
+"city": "Alliance",
+"airport": "Alliance",
+"code": "AIA"
+}{
+"state": "Nebraska",
+"city": "Chadron",
+"airport": "Chadron",
+"code": "CDR"
+}{
+"state": "Nebraska",
+"city": "Grand Island",
+"airport": "Grand Island",
+"code": "GRI"
+}{
+"state": "Nebraska",
+"city": "Kearney",
+"airport": "Kearney",
+"code": "EAR"
+}{
+"state": "Nebraska",
+"city": "Lincoln",
+"airport": "Lincoln Municipal",
+"code": "LNK"
+}{
+"state": "Nebraska",
+"city": "Mccook",
+"airport": "Mccook",
+"code": "MCK"
+}{
+"state": "Nebraska",
+"city": "North Platte",
+"airport": "North Platte Lee Bird Field",
+"code": "LBF"
+}{
+"state": "Nebraska",
+"city": "Omaha",
+"airport": "Omaha Eppley Airfield",
+"code": "OMA"
+}{
+"state": "Nebraska",
+"city": "Oneill",
+"airport": "Oneill",
+"code": "ONL"
+}{
+"state": "Nebraska",
+"city": "Scottsbluff",
+"airport": "Scottsbluff Scotts Bluff County",
+"code": "BFF"
+}{
+"state": "Nevada",
+"city": "Boulder City",
+"airport": "Boulder City",
+"code": "BLD"
+}{
+"state": "Nevada",
+"city": "Elko",
+"airport": "Elko",
+"code": "EKO"
+}{
+"state": "Nevada",
+"city": "Ely",
+"airport": "Ely Yelland",
+"code": "ELY"
+}{
+"state": "Nevada",
+"city": "Las Vegas",
+"airport": "Las Vegas McCarran Intl",
+"code": "LAS"
+}{
+"state": "Nevada",
+"city": "Reno",
+"airport": "Reno Tahoe Intl",
+"code": "RNO"
+}{
+"state": "New Hampshire",
+"city": "Hanover",
+"airport": "Lebanon Hanover Regional White River",
+"code": "LEB"
+}{
+"state": "New Hampshire",
+"city": "Manchester",
+"airport": "Manchester Municipal",
+"code": "MHT"
+}{
+"state": "New Jersey",
+"city": "Atlantic City",
+"airport": "Atlantic City Intl",
+"code": "ACY"
+}{
+"state": "New Jersey",
+"city": "Atlantic City",
+"airport": "Atlantic City Bader Field",
+"code": "AIY"
+}{
+"state": "New Jersey",
+"city": "Caldwell",
+"airport": "Caldwell Wright",
+"code": "CDW"
+}{
+"state": "New Jersey",
+"city": "Newark",
+"airport": "Newark Liberty Intl",
+"code": "EWR"
+}{
+"state": "New Jersey",
+"city": "Newark",
+"airport": "Newark Metropark Rail",
+"code": "ZME"
+}{
+"state": "New Jersey",
+"city": "Newark",
+"airport": "Newark NJ Rail",
+"code": "ZRP"
+}{
+"state": "New Jersey",
+"city": "Teterboro",
+"airport": "Teterboro",
+"code": "TEB"
+}{
+"state": "New Mexico",
+"city": "Alamogordo",
+"airport": "Alamogordo Municipal",
+"code": "ALM"
+}{
+"state": "New Mexico",
+"city": "Albuquerque",
+"airport": "Albuquerque International",
+"code": "ABQ"
+}{
+"state": "New Mexico",
+"city": "Carlsbad",
+"airport": "Carlsbad",
+"code": "CNM"
+}{
+"state": "New Mexico",
+"city": "Clovis",
+"airport": "Clovis Metropolitan Area",
+"code": "CVN"
+}{
+"state": "New Mexico",
+"city": "Farmington",
+"airport": "Farmington Municipal",
+"code": "FMN"
+}{
+"state": "New Mexico",
+"city": "Hobbs",
+"airport": "Hobbs Lea County",
+"code": "HOB"
+}{
+"state": "New Mexico",
+"city": "Roswell",
+"airport": "Roswell International Air Center",
+"code": "ROW"
+}{
+"state": "New Mexico",
+"city": "Santa Fe",
+"airport": "Santa Fe",
+"code": "SAF"
+}{
+"state": "New Mexico",
+"city": "Silver City",
+"airport": "Silver City Grant County",
+"code": "SVC"
+}{
+"state": "New York",
+"city": "Albany",
+"airport": "Albany International",
+"code": "ALB"
+}{
+"state": "New York",
+"city": "Binghamton",
+"airport": "Binghamton Endicott Johnson City",
+"code": "BGM"
+}{
+"state": "New York",
+"city": "Buffalo",
+"airport": "Buffalo Niagara Intl",
+"code": "BUF"
+}{
+"state": "New York",
+"city": "Corning",
+"airport": "Elmira Corning Regional Airport",
+"code": "ELM"
+}{
+"state": "New York",
+"city": "Islip",
+"airport": "Islip Long Island Macarthur",
+"code": "ISP"
+}{
+"state": "New York",
+"city": "Ithaca",
+"airport": "Ithaca Tompkins County",
+"code": "ITH"
+}{
+"state": "New York",
+"city": "Jamestown",
+"airport": "Jamestown",
+"code": "JHW"
+}{
+"state": "New York",
+"city": "Massena",
+"airport": "Massena Richards Field",
+"code": "MSS"
+}{
+"state": "New York",
+"city": "New York",
+"airport": "New York John F Kennedy Intl",
+"code": "JFK"
+}{
+"state": "New York",
+"city": "New York",
+"airport": "New York Downtown Manhattan H P",
+"code": "JRB"
+}{
+"state": "New York",
+"city": "New York",
+"airport": "New York LaGuardia",
+"code": "LGA"
+}{
+"state": "New York",
+"city": "New York",
+"airport": "New York",
+"code": "NYC"
+}{
+"state": "New York",
+"city": "New York",
+"airport": "New York East 34th St Heliport",
+"code": "TSS"
+}{
+"state": "New York",
+"city": "Niagara Falls",
+"airport": "Niagara Falls International",
+"code": "IAG"
+}{
+"state": "New York",
+"city": "Ogdensburg",
+"airport": "Ogdensburg",
+"code": "OGS"
+}{
+"state": "New York",
+"city": "Plattsburgh",
+"airport": "Plattsburgh AFB",
+"code": "PBG"
+}{
+"state": "New York",
+"city": "Plattsburgh",
+"airport": "Plattsburgh Clinton County",
+"code": "PLB"
+}{
+"state": "New York",
+"city": "Poughkeepsie",
+"airport": "Poughkeepsie Dutchess County",
+"code": "POU"
+}{
+"state": "New York",
+"city": "Poughkeepsie",
+"airport": "Stewart Newburgh",
+"code": "SWF"
+}{
+"state": "New York",
+"city": "Rochester",
+"airport": "Rochester Monroe County",
+"code": "ROC"
+}{
+"state": "New York",
+"city": "Saranac Lake",
+"airport": "Saranac Lake Adirondack",
+"code": "SLK"
+}{
+"state": "New York",
+"city": "Syracuse",
+"airport": "Syracuse Hancock Intl",
+"code": "SYR"
+}{
+"state": "New York",
+"city": "Watertown",
+"airport": "Watertown",
+"code": "ART"
+}{
+"state": "New York",
+"city": "Westchester County",
+"airport": "Westchester County Apt",
+"code": "HPN"
+}{
+"state": "New York",
+"city": "Westchester County",
+"airport": "Westchester County Stamford Rail STN",
+"code": "ZTF"
+}{
+"state": "North Carolina",
+"city": "Asheville",
+"airport": "Asheville Asheville Regional Hendersonville",
+"code": "AVL"
+}{
+"state": "North Carolina",
+"city": "Charlotte",
+"airport": "Charlotte Douglas International Airport",
+"code": "CLT"
+}{
+"state": "North Carolina",
+"city": "Fayetteville",
+"airport": "Fayetteville",
+"code": "FAY"
+}{
+"state": "North Carolina",
+"city": "Greensboro/High Point",
+"airport": "Greensboro High Point Piedmont Triad Intl",
+"code": "GSO"
+}{
+"state": "North Carolina",
+"city": "Greenville",
+"airport": "Pitt Greenville",
+"code": "PGV"
+}{
+"state": "North Carolina",
+"city": "Jacksonville",
+"airport": "Jacksonville Albert J Ellis",
+"code": "OAJ"
+}{
+"state": "North Carolina",
+"city": "Kinston",
+"airport": "Kinston Stallings Field",
+"code": "ISO"
+}{
+"state": "North Carolina",
+"city": "New Bern",
+"airport": "New Bern Simmons Nott",
+"code": "EWN"
+}{
+"state": "North Carolina",
+"city": "Raleigh/Durham",
+"airport": "Raleigh Durham",
+"code": "RDU"
+}{
+"state": "North Carolina",
+"city": "Wilmington",
+"airport": "Wilmington New Hanover County",
+"code": "ILM"
+}{
+"state": "North Carolina",
+"city": "Winston Salem",
+"airport": "Winston Salem Smith Reynolds",
+"code": "INT"
+}{
+"state": "North Dakota",
+"city": "Bismarck",
+"airport": "Bismarck",
+"code": "BIS"
+}{
+"state": "North Dakota",
+"city": "Devils Lake",
+"airport": "Devils Lake",
+"code": "DVL"
+}{
+"state": "North Dakota",
+"city": "Dickinson",
+"airport": "Dickinson",
+"code": "DIK"
+}{
+"state": "North Dakota",
+"city": "Fargo",
+"airport": "Fargo Hector Field",
+"code": "FAR"
+}{
+"state": "North Dakota",
+"city": "Grand Forks",
+"airport": "Grand Forks",
+"code": "GFK"
+}{
+"state": "North Dakota",
+"city": "Jamestown",
+"airport": "Jamestown",
+"code": "JMS"
+}{
+"state": "North Dakota",
+"city": "Minot",
+"airport": "Minot International",
+"code": "MOT"
+}{
+"state": "North Dakota",
+"city": "Williston",
+"airport": "Williston Sloulin Field Intl",
+"code": "ISN"
+}{
+"state": "Ohio",
+"city": "Akron/Canton",
+"airport": "Akron Canton Regional",
+"code": "CAK"
+}{
+"state": "Ohio",
+"city": "Cincinnati",
+"airport": "Cincinnati Cinci/Nrthrn Kentucky",
+"code": "CVG"
+}{
+"state": "Ohio",
+"city": "Cleveland",
+"airport": "Cleveland Burke Lakefront",
+"code": "BKL"
+}{
+"state": "Ohio",
+"city": "Cleveland",
+"airport": "Cleveland Hopkins International",
+"code": "CLE"
+}{
+"state": "Ohio",
+"city": "Columbus",
+"airport": "John Glenn Columbus Intl",
+"code": "CMH"
+}{
+"state": "Ohio",
+"city": "Columbus",
+"airport": "Columbus Rickenbacker",
+"code": "LCK"
+}{
+"state": "Ohio",
+"city": "Dayton",
+"airport": "Dayton International Airport",
+"code": "DAY"
+}{
+"state": "Ohio",
+"city": "Toledo",
+"airport": "Toledo Express",
+"code": "TOL"
+}{
+"state": "Ohio",
+"city": "Wilmington",
+"airport": "Wilmington Clinton Field",
+"code": "ILN"
+}{
+"state": "Ohio",
+"city": "Youngstown",
+"airport": "Youngstown",
+"code": "YNG"
+}{
+"state": "Oklahoma",
+"city": "Lawton",
+"airport": "Lawton Municipal",
+"code": "LAW"
+}{
+"state": "Oklahoma",
+"city": "Oklahoma City",
+"airport": "Oklahoma City Will Rogers World",
+"code": "OKC"
+}{
+"state": "Oklahoma",
+"city": "Stillwater",
+"airport": "Stillwater Regional Airport",
+"code": "SWO"
+}{
+"state": "Oklahoma",
+"city": "Tulsa",
+"airport": "Tulsa International",
+"code": "TUL"
+}{
+"state": "Oregon",
+"city": "Bend",
+"airport": "Redmond Bend Roberts Field",
+"code": "RDM"
+}{
+"state": "Oregon",
+"city": "Eugene",
+"airport": "Eugene",
+"code": "EUG"
+}{
+"state": "Oregon",
+"city": "Klamath Falls",
+"airport": "Klamath Falls Kingsley Field",
+"code": "LMT"
+}{
+"state": "Oregon",
+"city": "Medford",
+"airport": "Medford Jackson County",
+"code": "MFR"
+}{
+"state": "Oregon",
+"city": "North Bend",
+"airport": "North Bend",
+"code": "OTH"
+}{
+"state": "Oregon",
+"city": "Pendleton",
+"airport": "Pendleton",
+"code": "PDT"
+}{
+"state": "Oregon",
+"city": "Portland",
+"airport": "Portland International",
+"code": "PDX"
+}{
+"state": "Oregon",
+"city": "Salem",
+"airport": "Salem Mcnary Field",
+"code": "SLE"
+}{
+"state": "Pennsylvania",
+"city": "Allentown",
+"airport": "Allentown Bethlehem Easton Lehigh Valley Intl",
+"code": "ABE"
+}{
+"state": "Pennsylvania",
+"city": "Altoona",
+"airport": "Altoona Martinsburg",
+"code": "AOO"
+}{
+"state": "Pennsylvania",
+"city": "Bradford",
+"airport": "Bradford",
+"code": "BFD"
+}{
+"state": "Pennsylvania",
+"city": "Dubois",
+"airport": "Dubois Jefferson County",
+"code": "DUJ"
+}{
+"state": "Pennsylvania",
+"city": "Erie",
+"airport": "Erie International",
+"code": "ERI"
+}{
+"state": "Pennsylvania",
+"city": "Franklin",
+"airport": "Franklin Chess Lambertin",
+"code": "FKL"
+}{
+"state": "Pennsylvania",
+"city": "Harrisburg",
+"airport": "Harrisburg Skyport",
+"code": "HAR"
+}{
+"state": "Pennsylvania",
+"city": "Harrisburg",
+"airport": "Harrisburg Intl",
+"code": "MDT"
+}{
+"state": "Pennsylvania",
+"city": "Johnstown",
+"airport": "Johnstown Cambria County",
+"code": "JST"
+}{
+"state": "Pennsylvania",
+"city": "Lancaster",
+"airport": "Lancaster",
+"code": "LNS"
+}{
+"state": "Pennsylvania",
+"city": "Latrobe",
+"airport": "Latrobe Westmoreland County",
+"code": "LBE"
+}{
+"state": "Pennsylvania",
+"city": "Philadelphia",
+"airport": "Philadelphia International",
+"code": "PHL"
+}{
+"state": "Pennsylvania",
+"city": "Philadelphia",
+"airport": "Philadelphia 30st Rail Station",
+"code": "ZFV"
+}{
+"state": "Pennsylvania",
+"city": "Pittsburgh",
+"airport": "Pittsburgh Intl Apt",
+"code": "PIT"
+}{
+"state": "Pennsylvania",
+"city": "Scranton",
+"airport": "Scranton Wilkes Barre International",
+"code": "AVP"
+}{
+"state": "Pennsylvania",
+"city": "State College",
+"airport": "State College University Park",
+"code": "SCE"
+}{
+"state": "Pennsylvania",
+"city": "Williamsport",
+"airport": "Williamsport Lycoming County",
+"code": "IPT"
+}{
+"state": "Rhode Island",
+"city": "Block Island",
+"airport": "Block Island",
+"code": "BID"
+}{
+"state": "Rhode Island",
+"city": "Providence",
+"airport": "Providence Theodore Francis",
+"code": "PVD"
+}{
+"state": "Rhode Island",
+"city": "Westerly",
+"airport": "Westerly State",
+"code": "WST"
+}{
+"state": "South Carolina",
+"city": "Charleston",
+"airport": "Charleston AFB International Airport",
+"code": "CHS"
+}{
+"state": "South Carolina",
+"city": "Columbia",
+"airport": "Columbia Metropolitan Airport",
+"code": "CAE"
+}{
+"state": "South Carolina",
+"city": "Florence",
+"airport": "Florence",
+"code": "FLO"
+}{
+"state": "South Carolina",
+"city": "Greenville",
+"airport": "Greer Greenville Spartanburg",
+"code": "GSP"
+}{
+"state": "South Carolina",
+"city": "Hilton Head",
+"airport": "Hilton Head",
+"code": "HHH"
+}{
+"state": "South Carolina",
+"city": "Myrtle Beach",
+"airport": "Myrtle Beach AFB",
+"code": "MYR"
+}{
+"state": "South Dakota",
+"city": "Aberdeen",
+"airport": "Aberdeen Municipal",
+"code": "ABR"
+}{
+"state": "South Dakota",
+"city": "Huron",
+"airport": "Huron Howes",
+"code": "HON"
+}{
+"state": "South Dakota",
+"city": "Pierre",
+"airport": "Pierre",
+"code": "PIR"
+}{
+"state": "South Dakota",
+"city": "Rapid City",
+"airport": "Rapid City Regional",
+"code": "RAP"
+}{
+"state": "South Dakota",
+"city": "Sioux Falls",
+"airport": "Sioux Falls RegionalJo Foss Fld",
+"code": "FSD"
+}{
+"state": "South Dakota",
+"city": "Watertown",
+"airport": "Watertown",
+"code": "ATY"
+}{
+"state": "Tennessee",
+"city": "Bristol",
+"airport": "Bristol Johnson City Kingsport Tri Cities Regional",
+"code": "TRI"
+}{
+"state": "Tennessee",
+"city": "Chattanooga",
+"airport": "Chattanooga Lovell Field",
+"code": "CHA"
+}{
+"state": "Tennessee",
+"city": "Knoxville",
+"airport": "Knoxville Mc Ghee Tyson",
+"code": "TYS"
+}{
+"state": "Tennessee",
+"city": "Memphis",
+"airport": "Memphis International",
+"code": "MEM"
+}{
+"state": "Tennessee",
+"city": "Nashville",
+"airport": "Nashville International",
+"code": "BNA"
+}{
+"state": "Texas",
+"city": "Abilene",
+"airport": "Abilene Regional Airport",
+"code": "ABI"
+}{
+"state": "Texas",
+"city": "Amarillo",
+"airport": "Amarillo International",
+"code": "AMA"
+}{
+"state": "Texas",
+"city": "Austin",
+"airport": "Austin Bergstrom Intl",
+"code": "AUS"
+}{
+"state": "Texas",
+"city": "Beaumont",
+"airport": "Beaumont Jefferson County",
+"code": "BPT"
+}{
+"state": "Texas",
+"city": "Brownsville",
+"airport": "Brownsville South Padre Is Intl",
+"code": "BRO"
+}{
+"state": "Texas",
+"city": "College Station",
+"airport": "College Station Easterwood Field",
+"code": "CLL"
+}{
+"state": "Texas",
+"city": "Corpus Christi",
+"airport": "Corpus Christi International",
+"code": "CRP"
+}{
+"state": "Texas",
+"city": "Dallas",
+"airport": "Dallas Love Field",
+"code": "DAL"
+}{
+"state": "Texas",
+"city": "Dallas",
+"airport": "Dallas Fort Worth International",
+"code": "DFW"
+}{
+"state": "Texas",
+"city": "Del Rio",
+"airport": "Del Rio International",
+"code": "DRT"
+}{
+"state": "Texas",
+"city": "El Paso",
+"airport": "El Paso International",
+"code": "ELP"
+}{
+"state": "Texas",
+"city": "Gladewater",
+"airport": "Longview Gladewater Gregg County Kilgore",
+"code": "GGG"
+}{
+"state": "Texas",
+"city": "Harlingen",
+"airport": "Harlingen Valley International",
+"code": "HRL"
+}{
+"state": "Texas",
+"city": "Houston",
+"airport": "Houston Hobby",
+"code": "HOU"
+}{
+"state": "Texas",
+"city": "Houston",
+"airport": "Houston George Bush Intercntl",
+"code": "IAH"
+}{
+"state": "Texas",
+"city": "Killeen",
+"airport": "Killeen Fort Hood Regional Airport",
+"code": "GRK"
+}{
+"state": "Texas",
+"city": "Laredo",
+"airport": "Laredo International",
+"code": "LRD"
+}{
+"state": "Texas",
+"city": "Lubbock",
+"airport": "Lubbock Preston Smith International Airport",
+"code": "LBB"
+}{
+"state": "Texas",
+"city": "Mcallen",
+"airport": "McAllen Miller International McAllen",
+"code": "MFE"
+}{
+"state": "Texas",
+"city": "Midland",
+"airport": "Midland Odessa Regional",
+"code": "MAF"
+}{
+"state": "Texas",
+"city": "Sabre-Tech",
+"airport": "Sabre Tech Off line Point",
+"code": "AJP"
+}{
+"state": "Texas",
+"city": "San Angelo",
+"airport": "San Angelo Mathis Fld",
+"code": "SJT"
+}{
+"state": "Texas",
+"city": "San Antonio",
+"airport": "San Antonio International",
+"code": "SAT"
+}{
+"state": "Texas",
+"city": "Tyler",
+"airport": "Tyler Pounds Field",
+"code": "TYR"
+}{
+"state": "Texas",
+"city": "Victoria",
+"airport": "Victoria County Foster",
+"code": "VCT"
+}{
+"state": "Texas",
+"city": "Waco",
+"airport": "Waco Metropolitan Area",
+"code": "ACT"
+}{
+"state": "Texas",
+"city": "Wichita Falls",
+"airport": "Wichita Falls Sheppard AFB",
+"code": "SPS"
+}{
+"state": "Utah",
+"city": "Cedar City",
+"airport": "Cedar City",
+"code": "CDC"
+}{
+"state": "Utah",
+"city": "Moab",
+"airport": "Moab Canyonlands Field",
+"code": "CNY"
+}{
+"state": "Utah",
+"city": "Saint George",
+"airport": "Saint George Municipal",
+"code": "SGU"
+}{
+"state": "Utah",
+"city": "Salt Lake City",
+"airport": "Salt Lake City International",
+"code": "SLC"
+}{
+"state": "Utah",
+"city": "Vernal",
+"airport": "Vernal",
+"code": "VEL"
+}{
+"state": "Vermont",
+"city": "Burlington",
+"airport": "Burlington International",
+"code": "BTV"
+}{
+"state": "Vermont",
+"city": "Rutland",
+"airport": "Rutland",
+"code": "RUT"
+}{
+"state": "Virginia",
+"city": "Charlottesville",
+"airport": "Charlottesville Albemarle",
+"code": "CHO"
+}{
+"state": "Virginia",
+"city": "Hampton",
+"airport": "Hampton Williamsburg Newport News Williamsb",
+"code": "PHF"
+}{
+"state": "Virginia",
+"city": "Lynchburg",
+"airport": "Lynchburg Preston Glenn Field",
+"code": "LYH"
+}{
+"state": "Virginia",
+"city": "Norfolk",
+"airport": "Norfolk International",
+"code": "ORF"
+}{
+"state": "Virginia",
+"city": "Richmond",
+"airport": "Richmond Intl Byrd Field",
+"code": "RIC"
+}{
+"state": "Virginia",
+"city": "Roanoke",
+"airport": "Roanoke Municipal",
+"code": "ROA"
+}{
+"state": "Virginia",
+"city": "Staunton",
+"airport": "Staunton Shenandoah Valley",
+"code": "SHD"
+}{
+"state": "Washington",
+"city": "Bellingham",
+"airport": "Bellingham",
+"code": "BLI"
+}{
+"state": "Washington",
+"city": "Eastsound",
+"airport": "Eastsound Orcas Island",
+"code": "ESD"
+}{
+"state": "Washington",
+"city": "Friday Harbor",
+"airport": "Friday Harbor",
+"code": "FRD"
+}{
+"state": "Washington",
+"city": "Lopez Island",
+"airport": "Lopez Island",
+"code": "LPS"
+}{
+"state": "Washington",
+"city": "Oak Harbor",
+"airport": "Oak Harbor",
+"code": "ODW"
+}{
+"state": "Washington",
+"city": "Pasco",
+"airport": "Pasco Tri Cities",
+"code": "PSC"
+}{
+"state": "Washington",
+"city": "Port Angeles",
+"airport": "Port Angeles Fairchild Intl",
+"code": "CLM"
+}{
+"state": "Washington",
+"city": "Pullman",
+"airport": "Pullman Moscow Regional",
+"code": "PUW"
+}{
+"state": "Washington",
+"city": "Roche Harbor",
+"airport": "Roche Harbor",
+"code": "RCE"
+}{
+"state": "Washington",
+"city": "Rosario",
+"airport": "Rosario SPB",
+"code": "RSJ"
+}{
+"state": "Washington",
+"city": "Seattle",
+"airport": "Seattle Boeing Fld Intl",
+"code": "BFI"
+}{
+"state": "Washington",
+"city": "Seattle",
+"airport": "Seattle Lake Union SPB",
+"code": "LKE"
+}{
+"state": "Washington",
+"city": "Seattle",
+"airport": "Seattle Tacoma Intl",
+"code": "SEA"
+}{
+"state": "Washington",
+"city": "Spokane",
+"airport": "Spokane International",
+"code": "GEG"
+}{
+"state": "Washington",
+"city": "Walla Walla",
+"airport": "Walla Walla",
+"code": "ALW"
+}{
+"state": "Washington",
+"city": "Wenatchee",
+"airport": "Wenatchee Pangborn Field",
+"code": "EAT"
+}{
+"state": "Washington",
+"city": "Westsound",
+"airport": "Westsound",
+"code": "WSX"
+}{
+"state": "Washington",
+"city": "Yakima",
+"airport": "Yakima Air Terminal",
+"code": "YKM"
+}{
+"state": "West Virginia",
+"city": "Ashland",
+"airport": "Huntington Ashland Milton Tri State",
+"code": "HTS"
+}{
+"state": "West Virginia",
+"city": "Beckley",
+"airport": "Beckley",
+"code": "BKW"
+}{
+"state": "West Virginia",
+"city": "Charleston",
+"airport": "Charleston Yeager",
+"code": "CRW"
+}{
+"state": "West Virginia",
+"city": "Clarksburg",
+"airport": "Clarksburg Benedum",
+"code": "CKB"
+}{
+"state": "West Virginia",
+"city": "Lewisburg",
+"airport": "Lewisburg Greenbrier Valley",
+"code": "LWB"
+}{
+"state": "West Virginia",
+"city": "Marietta",
+"airport": "Parkersburg Marietta Wood County",
+"code": "PKB"
+}{
+"state": "West Virginia",
+"city": "Morgantown",
+"airport": "Morgantown",
+"code": "MGW"
+}{
+"state": "Wisconsin",
+"city": "Appleton",
+"airport": "Appleton International Airport",
+"code": "ATW"
+}{
+"state": "Wisconsin",
+"city": "Eagle River",
+"airport": "Eagle River",
+"code": "EGV"
+}{
+"state": "Wisconsin",
+"city": "Eau Claire",
+"airport": "Eau Claire",
+"code": "EAU"
+}{
+"state": "Wisconsin",
+"city": "Green Bay",
+"airport": "Green Bay Austin Straubel International Airport",
+"code": "GRB"
+}{
+"state": "Wisconsin",
+"city": "Kenosha",
+"airport": "Kenosha",
+"code": "ENW"
+}{
+"state": "Wisconsin",
+"city": "La Crosse",
+"airport": "La Crosse Municipal",
+"code": "LSE"
+}{
+"state": "Wisconsin",
+"city": "Madison",
+"airport": "Madison Dane County Regional",
+"code": "MSN"
+}{
+"state": "Wisconsin",
+"city": "Milwaukee",
+"airport": "Milwaukee General Mitchell",
+"code": "MKE"
+}{
+"state": "Wisconsin",
+"city": "Minocqua",
+"airport": "Minocqua Noble F Lee",
+"code": "ARV"
+}{
+"state": "Wisconsin",
+"city": "Rhinelander",
+"airport": "Rhinelander Oneida County",
+"code": "RHI"
+}{
+"state": "Wisconsin",
+"city": "Wausau",
+"airport": "Wausau",
+"code": "AUW"
+}{
+"state": "Wisconsin",
+"city": "Wausau",
+"airport": "Wausau Central Wisconsin",
+"code": "CWA"
+}{
+"state": "Wyoming",
+"city": "Casper",
+"airport": "Casper",
+"code": "CPR"
+}{
+"state": "Wyoming",
+"city": "Cheyenne",
+"airport": "Cheyenne",
+"code": "CYS"
+}{
+"state": "Wyoming",
+"city": "Cody/Yellowstone",
+"airport": "Cody Yellowstone Yellowstone Regional",
+"code": "COD"
+}{
+"state": "Wyoming",
+"city": "Gillette",
+"airport": "Gillette Campbell County",
+"code": "GCC"
+}{
+"state": "Wyoming",
+"city": "Jackson",
+"airport": "Jackson Hole Airport",
+"code": "JAC"
+}{
+"state": "Wyoming",
+"city": "Laramie",
+"airport": "Laramie General Brees Field",
+"code": "LAR"
+}{
+"state": "Wyoming",
+"city": "Riverton",
+"airport": "Riverton",
+"code": "RIW"
+}{
+"state": "Wyoming",
+"city": "Rock Springs",
+"airport": "Rock Springs Sweetwater County",
+"code": "RKS"
+}{
+"state": "Wyoming",
+"city": "Sheridan",
+"airport": "Sheridan",
+"code": "SHR"
+}{
+"state": "Wyoming",
+"city": "Worland",
+"airport": "Worland",
+"code": "WRL"
+}{
+"state": "District of Columbia",
+"city": "Washington",
+"airport": "Washington Ronald Reagan National",
+"code": "DCA"
+}{
+"state": "District of Columbia",
+"city": "Washington",
+"airport": "Washington Dulles Intl",
+"code": "IAD"
+}{
+"state": "District of Columbia",
+"city": "Washington",
+"airport": "Washington",
+"code": "WAS"
+}
