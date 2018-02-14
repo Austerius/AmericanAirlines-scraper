@@ -4,6 +4,7 @@ Script for running American Airlines scraper directly from command line.
 - Selenium
 - Geckodriver
 - Firefox web browser
+- bs4 (BeautifulSoup)
 
 Default name for file with search queries -
 'search_tasks.json'(default location - script directory).
